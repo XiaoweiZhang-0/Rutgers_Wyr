@@ -12,4 +12,4 @@ The aim of the project is to build a forum so Rutgers students could rate the co
 ```
 
 ## Website:	
-                  https://www.wyrrutgers.com/
+https://www.wyrrutgers.com/
